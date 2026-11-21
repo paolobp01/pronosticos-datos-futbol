@@ -1,0 +1,59 @@
+{
+ "version": 1,
+ "actualizado": "2026-11-21T20:06:22Z",
+ "generado": "2026-11-21T20:07:22Z",
+ "grupos": [
+  "candidatos",
+  "proximos",
+  "h2h",
+  "tablas",
+  "partidos",
+  "logos",
+  "escudos",
+  "equipos",
+  "entrenamiento",
+  "base"
+ ],
+ "archivos": {
+  "pagina/candidatos.json": {
+   "sha": "35ce66b29503798a44d925e367d51e4f129e0e20",
+   "bytes": 641164
+  },
+  "pagina/proximos.json": {
+   "sha": "48af1c8f22c4c8305df39d699624cab0fe8048e6",
+   "bytes": 647852
+  },
+  "pagina/h2h.json": {
+   "sha": "4180c3d6b35ee14b1b9531a71684e40c6d8b6849",
+   "bytes": 244068
+  },
+  "pagina/tablas.json": {
+   "sha": "5cabad1e523e3eddf9159f7487ed3e04ae3d9f6f",
+   "bytes": 125490
+  },
+  "pagina/partidos.json": {
+   "sha": "092c1b361862f49c835a669f7cf3a2af7fa26e3c",
+   "bytes": 230542
+  },
+  "pagina/logos.json": {
+   "sha": "dc36c07ded25a09f2ce129ba1251ac289519d976",
+   "bytes": 161149
+  },
+  "pagina/escudos.json": {
+   "sha": "57155de60030f30046444c00a2d1c6e9090f6eb6",
+   "bytes": 2101759
+  },
+  "pagina/equipos.json": {
+   "sha": "4e8f25bc480d84b5cc4cc2943a1bd1fcb4d5fcf8",
+   "bytes": 60547
+  },
+  "pagina/entrenamiento.json": {
+   "sha": "3a72348739756641343d8f4a38697c2059f9ce4b",
+   "bytes": 101327
+  },
+  "pagina/base.json": {
+   "sha": "1c139685285f8d8079b0abf32ed09db973bcb34f",
+   "bytes": 10982
+  }
+ }
+}
